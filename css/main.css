@@ -1,6 +1,24 @@
-h1 {font-size: 60px;
+h1 {font-size: 50px;
     font-color: #BD2A8C;
     font-family: tahoma, sans-serif;
   }
 img {border-radius: 80%
+  }
+
+li {font-size: 25px;
+    font-color: rgb(128,128,128);
+  }
+ul {list-style: none;
+    text-decoration: none;
+}
+a:hover {color: purple;
+}
+a:link, a:visited {
+    background-color: white;
+    color: green;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: 2px solid green;
   }
