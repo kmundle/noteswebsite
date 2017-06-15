@@ -1,7 +1,6 @@
 h1 {font-size: 60px;
     font-color: #BD2A8C;
-    font-family: arial, sans-serif;
+    font-family: tahoma, sans-serif;
   }
-img-circle {
-      border-radius: 50%;
+img {border-radius: 80%
   }
